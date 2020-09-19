@@ -7,8 +7,9 @@
 [![linkedin](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/aashish-jain-8b9838140)
 
 ```
-Hii I am Aashish jain.My interest lies on machine learning,data science,deep learning.
-I also have knowledge of computer vision and django.i am very exiting to learn new project work because its help me to
+Hii I am Aashish jain.My interest lies on machine learning,data science,
+deep learning.I also have knowledge of computer vision and django.
+i am very exiting to learn new project work because its help me to
 know more knowledge
 ```
 
