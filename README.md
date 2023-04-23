@@ -1,21 +1,6 @@
 # Aashish Jain <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-
-[![github](http://i.imgur.com/0o48UoR.png)](https://github.com/Aashish095)
-[![facebook](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/profile.php?id=100005592709483)
-[![linkedin](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/aashish-jain-8b9838140)
-
 ```
-Hello I am Aashish jain.My interest lies on web developement and also know about machine learning too.I also have knowledge of computer vision and django.
-i am very exiting to learn new project work because its help me to
-know more knowledge
+Hello I am Aashish jain.My interest lies on web developement and also know about machine learning too.As a Full Stack Developer with a passion for technology and innovation, I bring a diverse range of skills to the table. With experience in technologies such as Django, ReactJs, and AWS, I have a proven track record of delivering high-quality solutions to complex problems. My expertise in programming languages such as Python, C/C++, and JavaScript enables me to approach challenges with a well-rounded perspective, ensuring that I can develop efficient and effective solutions. What truly sets me apart is my commitment to staying up-to-date with the latest industry trends and technologies, as well as my ability to collaborate effectively with cross-functional teams. I am confident that my skills, combined with my dedication to delivering exceptional work, make me an ideal candidate for any development role. Let's connect and explore how I can contribute to your team's success.
 ```
-
-
- 🌱 I’m currently work on full stack web developer
-- 💬 Ask me about opencv,machine learning,deep learning,c language,
-- 📫 How to reach me: you can check my social media account
-- 😄 Pronouns: you can use my profile name
-- ⚡ Fun fact: to release stress i am using gaming 
-
